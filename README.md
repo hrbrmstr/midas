@@ -16,3 +16,5 @@ Fields: `name` (lake/pond/etc name; <chr>), `midas` (MIDAS identifier;<chr>)
 - `midas.csv`: Plain ol' CSV with X & Y
 - `midas.geojson`: GeoJSON (POINT geom)
 - `midas.sqlite`: Spatial-ops compatible SQLite; `midas` table (POINT geom)
+
+![](midas-points.png)
