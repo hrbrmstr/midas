@@ -8,7 +8,7 @@ Every time I try to find this metadata I end up spending way too much time, so I
 
 Geometry: POINT (EPSG:4326) &mdash; lake/pond/etc centroid
 
-Fields: `name` (lake/pond/etc name; <chr>), `midas` (MIDAS identifier;<chr>)
+Fields: `name` (lake/pond/etc name; &lt;chr&gt;), `midas` (MIDAS identifier; &lt;chr&gt;)
 
 ## Formats
 
